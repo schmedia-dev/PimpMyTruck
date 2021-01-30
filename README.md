@@ -1,4 +1,5 @@
-# PimpMyTruck
+# Pimp My Truck
+ETS2 TruckersMP Mod & Skin Helper
 
 Ganz einfach einen Skin per Mausklick auswählen und schon ist er in ETS2 verfügbar.
 
